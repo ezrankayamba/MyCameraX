@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My CameraX</string>
+    <string name="caprure_image">Caprure image</string>
+    <string name="title_activity_main">Test App</string>
+    <string name="todo">TODO</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_my_camera_x">My CameraX</string>
+</resources>
